@@ -3,5 +3,5 @@ module github.com/wenqi-wang20/wowchemy-hugo-themes/modules/wowchemy-plugin-reve
 go 1.15
 
 require (
-	github.com/wenqi-wang20/wowchemy-hugo-themes/modules/wowchemy-core v1.2.3
+	github.com/wenqi-wang20/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0
 )
